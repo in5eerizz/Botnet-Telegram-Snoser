@@ -1,0 +1,16 @@
+_______________________________________________________________________________________________________________
+Гайд по установке - Проживаем Win + R
+
+CMD
+pip install colored
+pip install pystyle
+После перетаскивам файл (SNOSER.py) в командную строку НО перед ней обязательно прописываем python
+_______________________________________________________________________________________________________________
+Guide
+Installation Guide - Win + R
+
+CMD
+pip install colored
+pip install pystyle 
+After dragging and dropping the file (SNOSER.py) into the command line BUT make sure to put python before it.  
+_______________________________________________________________________________________________________________
